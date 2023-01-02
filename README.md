@@ -1,6 +1,6 @@
 ![MasterHead](https://as1.ftcdn.net/v2/jpg/03/04/68/52/1000_F_304685223_ttVGVAkC5JlfgEOTO8KYbN4tjnRqM715.jpg)
 <h1 align="center">Hi 👋, I'm VALENTINA</h1>
-<h3 align="center">A passionate d3v</h3>
+<h3 align="center">A passionate D3V</h3>
 <img align="right" alt="Coding" width="400" src="https://www.cloudyml.com/wp-content/uploads/2022/06/data-analytics-services-image.gif")>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=5n0w-p3rl&label=Profile%20views&color=0e75b6&style=flat" alt="5n0w-p3rl" /> </p>
