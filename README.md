@@ -1,4 +1,4 @@
-![MasterHead](https://www.shutterstock.com/image-vector/data-science-banner-web-icon-260nw-1567366987.jpg)
+![MasterHead](https://as1.ftcdn.net/v2/jpg/03/04/68/52/1000_F_304685223_ttVGVAkC5JlfgEOTO8KYbN4tjnRqM715.jpg)
 <h1 align="center">Hi 👋, I'm VALENTINA</h1>
 <h3 align="center">A passionate d3v</h3>
 <img align="right" alt="Coding" width="400" src="https://www.cloudyml.com/wp-content/uploads/2022/06/data-analytics-services-image.gif")>
